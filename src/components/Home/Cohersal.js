@@ -1,6 +1,6 @@
 import React from 'react';
-import web from "../../Images/1C.jpg" ;
-import '../Home/Cohersal.css';
+import web from '../Images/1C.jpg' ;
+import './Cohersal.css';
 function Cohersal() {
     return (
         <div className='row  Name'>

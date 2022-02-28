@@ -8,10 +8,8 @@ function About() {
     <div className="row h-100 align-items-center py-5">
       <div className="col-lg-6">
         <h1 className="display-4">About us page</h1>
-        <p className="lead text-muted mb-0">Create a minimal about us page using Bootstrap 4.</p>
-        <p className="lead text-muted">Snippet by <a href="https://bootstrapious.com/snippets" className="text-muted"> 
-                    <u>Bootstrapious</u></a>
-        </p>
+        <p className="lead text-muted mb-0">Export Quality Lamps on one click.</p>
+        
       </div>
       <div className="col-lg-6 d-none d-lg-block"><img src="https://bootstrapious.com/i/snippets/sn-about/illus.png" alt="" className="img-fluid" /></div>
     </div>
